@@ -1,4 +1,4 @@
-![Header Image](https://your-image-url.com) <!-- Replace with your actual image link -->
+![Header Image](./github-header-image.png) <!-- Replace with your actual image link -->
 
 # Hey there, I'm Het Shah 👋
 
